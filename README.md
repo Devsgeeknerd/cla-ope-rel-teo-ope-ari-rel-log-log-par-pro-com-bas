@@ -36,9 +36,12 @@ Se aplicarmos os operadores relacionais, teremos os seguintes resultados:
 | A >= B? | Verdadeiro |
 | A <= B? | Falso |
 
-> &#8505;
+> **Note:
+>
 > É importante nos lembrarmos de que a representação dos operadores relacionais pode variar entre linguagens de programação.
+>
 > Por exemplo, os operadores de igualdade (**=**) e desigualdade (**<>**), no **C#** e no **Java**, são representados respectivamente por **==** e **!=**.
+>
 > Os demais operadores são iguais entre quase todas as linguagens.
 
 <!-- Information -->
@@ -56,4 +59,4 @@ Se aplicarmos os operadores relacionais, teremos os seguintes resultados:
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-ope-rel-teo-ope-ari-rel-log-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/cla-ope-rel=teo-ope-ari-rel-log-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-ope-rel-teo-ope-ari-rel-log-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
