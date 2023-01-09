@@ -36,7 +36,7 @@ Se aplicarmos os operadores relacionais, teremos os seguintes resultados:
 | A >= B? | Verdadeiro |
 | A <= B? | Falso |
 
-> **Note:
+> **Note**:
 >
 > É importante nos lembrarmos de que a representação dos operadores relacionais pode variar entre linguagens de programação.
 >
